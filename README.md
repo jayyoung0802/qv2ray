@@ -15,7 +15,9 @@
 >   General Settings --> Latency Test Method : TCPing
 
 >   Kernel Setting --> V2Ray Core Executable Path
+
 >   example:  /home/jayyoung/Downloads/v2ray-linux-64/v2ray
 
 >   Kernel Setting --> V2Ray Assers Directory
+
 >   example:  /home/jayyoung/Downloads/v2ray-linux-64
